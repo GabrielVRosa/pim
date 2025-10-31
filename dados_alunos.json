@@ -1,0 +1,13 @@
+{
+    "alunos": [
+        {
+            "ra": "1",
+            "nome": "Pedro",
+            "senha": "123",
+            "turma": "1-A",
+            "notas": {
+                "ADS": 5.0
+            }
+        }
+    ]
+}
